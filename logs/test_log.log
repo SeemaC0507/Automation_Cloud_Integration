@@ -1,0 +1,17 @@
+2026-02-27 12:39:26,082 - INFO - Opening website
+2026-02-27 12:39:26,810 - INFO - Logging in
+2026-02-27 12:39:27,666 - INFO - Adding product to cart
+2026-02-27 12:39:28,137 - INFO - Product in cart: Sauce Labs Backpack
+2026-02-27 12:42:39,678 - INFO - Opening website
+2026-02-27 12:42:40,358 - INFO - Logging in
+2026-02-27 12:42:41,069 - INFO - Adding product to cart
+2026-02-27 12:42:41,467 - INFO - Product in cart: Sauce Labs Backpack
+2026-02-27 12:48:03,227 - INFO - Opening website
+2026-02-27 12:48:03,941 - INFO - Logging in
+2026-02-27 12:48:04,593 - INFO - Adding product to cart
+2026-02-27 12:48:04,963 - INFO - Product in cart: Sauce Labs Backpack
+2026-02-27 12:49:25,245 - INFO - Opening website
+2026-02-27 12:49:26,012 - INFO - Logging in
+2026-02-27 12:49:26,667 - INFO - Adding product to cart
+2026-02-27 12:49:27,085 - INFO - Product in cart: Sauce Labs Backpack
+2026-02-27 12:49:27,540 - INFO - Mock uploaded report.html to S3 bucket qa-automation-reports
