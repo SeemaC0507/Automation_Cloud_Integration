@@ -1,7 +1,7 @@
 import pytest
 import os
-from cloud.cloud_upload import upload_report_to_s3
-from utils.logger import get_logger
+from automation_framework.cloud.cloud_upload import upload_report_to_s3
+from automation_framework.utils.logger import get_logger
 from selenium import webdriver
 from pages.home_page import HomePage
 from pages.product_page import ProductPage
