@@ -15,3 +15,6 @@
 2026-02-27 12:49:26,667 - INFO - Adding product to cart
 2026-02-27 12:49:27,085 - INFO - Product in cart: Sauce Labs Backpack
 2026-02-27 12:49:27,540 - INFO - Mock uploaded report.html to S3 bucket qa-automation-reports
+2026-03-03 19:37:42,008 - INFO - Starting test_add_product_to_cart
+2026-03-03 19:37:43,551 - INFO - Starting mock S3 upload for report.html
+2026-03-03 19:37:43,835 - INFO - Mock uploaded report.html to S3 bucket qa-automation-reports
